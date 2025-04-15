@@ -43,7 +43,7 @@ int main() {
 		printf("Nachodna permutacia prvych %d znakov: %s \n", d,vys);
 	}
 	else{
-		printf("Chyba: nespravna dlzka", d,vys);
+		printf("Chyba: nespravna dlzka");
 	}
 	
 	return 0;
